@@ -1,0 +1,47 @@
+body{
+    background-color: #000000;
+    color: #ffffff;
+}
+.first{
+    width: 80%;
+    border-radius: 25px ;
+    background-color: #3e3e3e;
+    height: 849px;
+    background-size:contain ;
+    text-align: center;
+
+}
+.text1{
+    padding: 0px 0px 20px 30px;
+    text-align: left;
+    font-family: "Times New Roman";
+}
+p1{
+    color: #9f9f9f;
+    font-family: "Times New Roman";
+}
+.text2{
+    font-family: "Times New Roman";
+    line-height: 1.5;
+    padding: 0px 10px 0px 10px;
+    text-align: center;
+    width: 70%;
+}
+
+h2{
+    font-family: "Times New Roman";
+    font-size: 20px;
+    color: #ffffff;
+}
+.end{
+    font-family: "Times New Roman";
+    width: 10%;
+    border-radius: 25px ;
+    background-color: #3e3e3e;
+    text-align: center;
+
+}h3{
+     font-family: "Times New Roman";
+     font-size: 25px;
+     text-align: center;
+ }
